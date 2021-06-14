@@ -4,7 +4,7 @@ title: Bio
 permalink: /bio/
 ---
 
-###EDUCATION
+### EDUCATION
 
 Ph.D. Applied Mathematics and Statistics, Johns Hopkins University
 
@@ -14,7 +14,8 @@ M.S.E. Applied Mathematics and Statistics, Johns Hopkins University
 
 B.S. Mathematics, minor in Computer Science, Concord University
 
-###EXPERIENCE
+
+### EXPERIENCE
 Center for Imaging Science, Johns Hopkins University, 2008-2014
 
 Armstrong Institute for Patient Safety & Quality, Johns Hopkins Medicine, Spring 2014
@@ -27,7 +28,8 @@ RIPS Program, University of California, Los Angeles, Summer 2004
 
 Interdisciplinary Center for Applied Mathematics, Virginia Tech, Summer 2003
 
-###AWARDS
+
+### AWARDS
 Isaacs Fellowship, Johns Hopkins University
 
 Joseph Marsh Scholarship of Distingtion, Concord University
