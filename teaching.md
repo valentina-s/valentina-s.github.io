@@ -15,7 +15,7 @@ permalink: /teaching/
 * Introduction to R
 * Scalable Data Analysis with Dask
 * Introduction to Unix Shell
-* Version Control with Git\&Github (introductory \& intermediate)
+* Version Control with Git&Github (introductory & intermediate)
 * Reproducibility and Open Science
 * Machine Learning, Deep Learning
 * Tensor Decomposition for Computer Vision and Machine Learning
@@ -29,7 +29,7 @@ permalink: /teaching/
 * Introduction to R
 * A Hands-on Introduction to MATLAB
 
-*Teaching Assistant*
+*Teaching Assistant:*
 * Probability and Statistics for Engineering
 * Probability and Statistics for Biological Sciences
 * Stochastic Processes with Applications to Finance
@@ -37,7 +37,7 @@ permalink: /teaching/
 * Time Series Analysis
 * Statistical Theory
 
-*Financial Math Program Bootcamp Instructor*
+*Financial Math Program Bootcamp Instructor:*
 * Linear Algebra with MATLAB
 * Statistics with R
 * Optimization
