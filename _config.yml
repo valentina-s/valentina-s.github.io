@@ -50,6 +50,7 @@ minima:
 header_pages:
  - index.md
  #- about.md
+ - bio.md
  - research.md
  - teaching.md
 # Build settings
