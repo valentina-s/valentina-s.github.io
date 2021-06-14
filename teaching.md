@@ -42,5 +42,7 @@ permalink: /teaching/
 * Statistics with R
 * Optimization
 
+**[Carpentries](https://carpentries.org/) Certified Instructor**
+
 
 
