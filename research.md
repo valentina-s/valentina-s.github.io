@@ -9,7 +9,7 @@ permalink: /research/
 * Data Science Workflows for Sonar Data Analysis
 
 ### [Google Summer of Code with Orcasound](https://www.orcasound.net/portfolio/google-summer-of-code-open-source-software-for-students-orcas/)
-* Active Listening and Learning of Orca Sounds [orcaAL tool](https://orcasound.github.io/orcaal/)
+* Active Listening and Learning of Orca Sounds [(orcaAL tool)](https://orcasound.github.io/orcaal/)
 * Github Actions Workflows for Scheduled Algorithm Deployment
 * Sounds Similar for Me: Using Open Embeddings to Improve Sampling on OrcaAL Tool
 
