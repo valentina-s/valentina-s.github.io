@@ -4,14 +4,14 @@ title: Research
 permalink: /research/
 ---
 
-### Sonar Time Series Analysis
-* Matrix and Tensor Decomposition of Sonar Time Series
+### [Sonar Time Series Analysis](https://oceanobservatories.org/2021/03/a-bountiful-sea-of-data-making-echosounder-data-more-useful/)
+* Matrix and Tensor Decomposition of Sonar Time Series 
 * Data Science Workflows for Sonar Data Analysis
 
-### Google Summer of Code with Orcasound
-* Active Listening and Learning of Orca Sounds
+### [Google Summer of Code with Orcasound](https://www.orcasound.net/portfolio/google-summer-of-code-open-source-software-for-students-orcas/)
+* Active Listening and Learning of Orca Sounds [orcaAL tool](https://orcasound.github.io/orcaal/)
 * Github Actions Workflows for Scheduled Algorithm Deployment
-* Sounds similar for me: Using open embeddings to improve sampling on orcAL Tool
+* Sounds Similar for Me: Using Open Embeddings to Improve Sampling on OrcaAL Tool
 
 ### Data Science for Social Good Projects
 * *Rerouting Solutions and Expensive Ride Analysis for King County Paratransit*, with King County Metro and Taskar Center for Accessible Technology (2015)
