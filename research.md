@@ -25,6 +25,8 @@ permalink: /research/
 * *Learning to See the Forest and the Trees: Using Computer Vision to Make Forest Stewardship More Accessible*, with David Diaz, School of Environmental & Forest Sciences
 * *Deer Fear: Using Acceleromenters and Video Camera Collars to Understand if Wolves Change Deer Behavior*, with Apryle Craig, School of Environmental & Forest Sciences
 * *Affective State Analysis of Ultrasonic Vocalizations in Animal Models mTBI/PTSD and Neuropathic Pain, with Abigail Schindler*, Psychiatry and Behavioral Sciences
-* *Discovering Marine Trophic Interaction Patterns Using Sonar Time Series from Ocean Observatories*, with Wu-Jung Lee, Applied Physics Lab
+* *Discovering Marine Trophic Interaction Patterns Using Sonar Time Series from Ocean Observatories*, with Wu-Jung Lee, Applied Physics Lab and Bernease Herman, eScience Institute
+* *Cloud-Enabled Tools for the Analysis of Subsea HD Camera Data*, with Aaron Marburg, Applied Physics Lab, and Bernease Herman, eScience Institute
+* *Detecting Small Particles in Low-Contrast Images to Aid in Particle Tracking*, with Alicia Clark, Mechanical Engineering, and Bernease Herman, eScience Institute
 * *Damage Speaks: Acoustical Monitoring Framework for Structures Subjected to Earthquakes*, with Travis Thonstad, Civil & Environmental Engineering
 
