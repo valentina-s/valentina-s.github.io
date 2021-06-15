@@ -13,7 +13,7 @@ permalink: /research/
 * Github Actions Workflows for Scheduled Algorithm Deployment
 * Sounds Similar for Me: Using Open Embeddings to Improve Sampling on OrcaAL Tool
 
-### Data Science for Social Good Projects
+### [Data Science for Social Good Projects](https://escience.washington.edu/dssg/)
 * *Rerouting Solutions and Expensive Ride Analysis for King County Paratransit*, with King County Metro and Taskar Center for Accessible Technology (2015)
 * *Mining Online Data for Early Identification of Unsafe Food Products*, with Institute of Health Metrics and Evaluation (2016)
 * *Can traffic sensor data detect vehicle cruising?, with City of Seattle*, Department of Transportation (2017)
@@ -21,7 +21,7 @@ permalink: /research/
 * *Natural Language Processing for Peer Support in Online Mental Health Communities*, with CSE and Psychiatry and Behavioral Sciences (2019)
 
 
-### Data Incubator Projects
+### [Data Incubator Projects](https://escience.washington.edu/get-involved/incubator-programs/)
 * *Learning to See the Forest and the Trees: Using Computer Vision to Make Forest Stewardship More Accessible*, with David Diaz, School of Environmental & Forest Sciences
 * *Deer Fear: Using Acceleromenters and Video Camera Collars to Understand if Wolves Change Deer Behavior*, with Apryle Craig, School of Environmental & Forest Sciences
 * *Affective State Analysis of Ultrasonic Vocalizations in Animal Models mTBI/PTSD and Neuropathic Pain, with Abigail Schindler*, Psychiatry and Behavioral Sciences
