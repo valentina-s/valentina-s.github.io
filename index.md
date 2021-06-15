@@ -15,6 +15,7 @@ I am a Senior Data Scientist and Data Science Fellow at the [eScience Institute]
 **Research Interests:**
 
 * Image Analysis
+* Time Series Analysis
 * Machine Learning for Ocean Acoustics
 * Scientific Computing
 * Reproducible Research Workflows
