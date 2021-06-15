@@ -16,6 +16,8 @@ B.S. Mathematics, minor in Computer Science, Concord University
 
 
 ### Experience
+eScience Institute, University of Washington, 2015-present
+
 Center for Imaging Science, Johns Hopkins University, 2008-2014
 
 Armstrong Institute for Patient Safety & Quality, Johns Hopkins Medicine, Spring 2014
