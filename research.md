@@ -22,12 +22,12 @@ permalink: /research/
 
 
 ### [Data Science Incubator Projects](https://escience.washington.edu/using-data-science/incubator/)
-* *[User-friendly Tools for Oceanic Plankton Image Analysis (UTOPIA)](https://escience.washington.edu/incubator-22-utopia/)*, with Ali Chase, Applied Physics Laboratory 
-* *[Learning to See the Forest and the Trees: Using Computer Vision to Make Forest Stewardship More Accessible](https://escience.washington.edu/incubator-21-forest/)*, with David Diaz, School of Environmental & Forest Sciences
-* *[Deer Fear: Using Acceleromenters and Video Camera Collars to Understand if Wolves Change Deer Behavior](https://escience.washington.edu/incubator-20-deer/)*, with Apryle Craig, School of Environmental & Forest Sciences
-* *[Affective State Analysis of Ultrasonic Vocalizations in Animal Models mTBI/PTSD and Neuropathic Pain](https://escience.washington.edu/incubator-19-pain/), with Abigail Schindler*, Psychiatry and Behavioral Sciences
-* *[Discovering Marine Trophic Interaction Patterns Using Sonar Time Series from Ocean Observatories](https://escience.washington.edu/incubator-17-sonar-patterns/)*, with Wu-Jung Lee, Applied Physics Lab and Bernease Herman, eScience Institute
-* *[Cloud-Enabled Tools for the Analysis of Subsea HD Camera Data](https://escience.washington.edu/incubator-17-subsea-data/)*, with Aaron Marburg, Applied Physics Lab, and Bernease Herman, eScience Institute
-* *[Detecting Small Particles in Low-Contrast Images to Aid in Particle Tracking](https://escience.washington.edu/incubator-17-particle-tracking/)*, with Alicia Clark, Mechanical Engineering, and Bernease Herman, eScience Institute
-* *[Damage Speaks: Acoustical Monitoring Framework for Structures Subjected to Earthquakes](https://escience.washington.edu/incubator-16-earthquakes/)*, with Travis Thonstad, Civil & Environmental Engineering
+* *[User-friendly Tools for Oceanic Plankton Image Analysis (UTOPIA)](https://escience.washington.edu/incubator-22-utopia/)*, with Ali Chase, Applied Physics Laboratory (2022)
+* *[Learning to See the Forest and the Trees: Using Computer Vision to Make Forest Stewardship More Accessible](https://escience.washington.edu/incubator-21-forest/)*, with David Diaz, School of Environmental & Forest Sciences (2021)
+* *[Deer Fear: Using Acceleromenters and Video Camera Collars to Understand if Wolves Change Deer Behavior](https://escience.washington.edu/incubator-20-deer/)*, with Apryle Craig, School of Environmental & Forest Sciences (2020)
+* *[Affective State Analysis of Ultrasonic Vocalizations in Animal Models mTBI/PTSD and Neuropathic Pain](https://escience.washington.edu/incubator-19-pain/), with Abigail Schindler*, Psychiatry and Behavioral Sciences (2019)
+* *[Discovering Marine Trophic Interaction Patterns Using Sonar Time Series from Ocean Observatories](https://escience.washington.edu/incubator-17-sonar-patterns/)*, with Wu-Jung Lee, Applied Physics Lab and Bernease Herman, eScience Institute (2017)
+* *[Cloud-Enabled Tools for the Analysis of Subsea HD Camera Data](https://escience.washington.edu/incubator-17-subsea-data/)*, with Aaron Marburg, Applied Physics Lab, and Bernease Herman, eScience Institute (2017)
+* *[Detecting Small Particles in Low-Contrast Images to Aid in Particle Tracking](https://escience.washington.edu/incubator-17-particle-tracking/)*, with Alicia Clark, Mechanical Engineering, and Bernease Herman, eScience Institute (2017)
+* *[Damage Speaks: Acoustical Monitoring Framework for Structures Subjected to Earthquakes](https://escience.washington.edu/incubator-16-earthquakes/)*, with Travis Thonstad, Civil & Environmental Engineering (2016)
 
