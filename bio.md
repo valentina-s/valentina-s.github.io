@@ -8,7 +8,7 @@ permalink: /bio/
 
 Ph.D. Applied Mathematics and Statistics, Johns Hopkins University
 
-*Thesis: Stochastic Filtering on Shape Manifolds*
+*Thesis: [Stochastic Filtering on Shape Manifolds](https://jscholarship.library.jhu.edu/handle/1774.2/40823)*
 
 M.S.E. Applied Mathematics and Statistics, Johns Hopkins University
 
