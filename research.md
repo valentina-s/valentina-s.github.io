@@ -21,7 +21,8 @@ permalink: /research/
 * *Natural Language Processing for Peer Support in Online Mental Health Communities*, with CSE and Psychiatry and Behavioral Sciences (2019)
 
 
-### [Data Incubator Projects](https://escience.washington.edu/get-involved/incubator-programs/)
+### [Data Science Incubator Projects](https://escience.washington.edu/get-involved/incubator-programs/)
+* *[User-friendly Tools for Oceanic Plankton Image Analysis (UTOPIA)](https://escience.washington.edu/incubator-22-utopia/)*, with Ali Chase, Applied Physics Laboratory 
 * *Learning to See the Forest and the Trees: Using Computer Vision to Make Forest Stewardship More Accessible*, with David Diaz, School of Environmental & Forest Sciences
 * *Deer Fear: Using Acceleromenters and Video Camera Collars to Understand if Wolves Change Deer Behavior*, with Apryle Craig, School of Environmental & Forest Sciences
 * *Affective State Analysis of Ultrasonic Vocalizations in Animal Models mTBI/PTSD and Neuropathic Pain, with Abigail Schindler*, Psychiatry and Behavioral Sciences
