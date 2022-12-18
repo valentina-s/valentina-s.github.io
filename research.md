@@ -4,14 +4,18 @@ title: Research
 permalink: /research/
 ---
 
-### [Sonar Time Series Analysis](https://oceanobservatories.org/2021/03/a-bountiful-sea-of-data-making-echosounder-data-more-useful/)
-* Matrix and Tensor Decomposition of Sonar Time Series 
+### [Sonar Data Analysis]
+* [Matrix and Tensor Decomposition of Ocean Sonar Time Series](https://oceanobservatories.org/2021/03/a-bountiful-sea-of-data-making-echosounder-data-more-useful/)
+* [Deep Learning for Fish Identification in Ship Surveys](https://uw-echospace.github.io/project/2021-hake-workflow/)
 * Data Science Workflows for Sonar Data Analysis
 
 ### [Google Summer of Code with Orcasound](https://www.orcasound.net/portfolio/google-summer-of-code-open-source-software-for-students-orcas/)
 * Active Listening and Learning of Orca Sounds [(orcaAL tool)](https://orcasound.github.io/orcaal/)
-* Github Actions Workflows for Scheduled Algorithm Deployment
-* Sounds Similar for Me: Using Open Embeddings to Improve Sampling on OrcaAL Tool
+* [Github Actions Workflows for Scheduled Algorithm Deployment](https://www.orcasound.net/author/dmitryvolodin/)
+* [Sounds Similar for Me: Using Open Embeddings to Improve Sampling on OrcaAL Tool](https://www.orcasound.net/author/josegiraldo/)
+* [Streaming External Hydrophones to Orcasound Website](https://www.orcasound.net/author/karan/)
+* [Streamlining OrcaAL Tool](https://www.orcasound.net/author/benjamin/)
+* [Bioacoustic Source Separation]([https://www.orcasound.net/author/devdoot/](https://www.orcasound.net/?s=devdoot))
 
 ### [Data Science for Social Good Projects](https://escience.washington.edu/using-data-science/data-science-for-social-good/)
 * *[Seattle’s $15 Minimum Wage Ordinance](https://uwescience.github.io/MinWA/)*, with West Coast Poverty Center (2021)
