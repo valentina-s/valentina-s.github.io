@@ -18,9 +18,9 @@ Check out our group [site](https://uw-echospace.github.io/) to learn more about 
 
 ### Passive Acoustic Monitoring
 
-I collaborate with the [Orcasound](https://www.orcasound.net/) organization on projects engaging the public in listening to underwater sounds through combining the efforts of AI and humans. Together we have participated in the [Google Summer of Code](https://summerofcode.withgoogle.com/how-it-works) program and have worked with many wonderful students from around the world to develop open source software and data sets. Read more on our experience [here]([https://www.orcasound.net/portfolio/google-summer-of-code-open-source-software-for-students-orcas/). Below are more details on some of the projects:
+I collaborate with the [Orcasound](https://www.orcasound.net/) organization on projects engaging the public in listening to underwater sounds through combining the efforts of AI and humans. Together we have participated in the [Google Summer of Code](https://summerofcode.withgoogle.com/how-it-works) program and have worked with many wonderful students from around the world to develop open source software and data sets. Read more on our experience [here](https://www.orcasound.net/portfolio/google-summer-of-code-open-source-software-for-students-orcas/). Below are more details on some of the projects:
 
-* [OrcaAL Tool](https://orcasound.github.io/orcaal/): Active Listening and Learning of Orca Sounds 
+* [OrcaAL Tool: Active Listening and Learning of Orca Sounds](https://orcasound.github.io/orcaal/)
 * [Github Actions Workflows for Scheduled Algorithm Deployment](https://www.orcasound.net/author/dmitryvolodin/)
 * [Sounds Similar for Me: Using Open Embeddings to Improve Sampling on OrcaAL Tool](https://www.orcasound.net/author/josegiraldo/)
 * [Streaming External Hydrophones to Orcasound Website](https://www.orcasound.net/author/karan/)
