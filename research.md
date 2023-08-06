@@ -4,13 +4,24 @@ title: Research
 permalink: /research/
 ---
 
-### Sonar Data Analysis
-* [Matrix and Tensor Decomposition of Ocean Sonar Time Series](https://oceanobservatories.org/2021/03/a-bountiful-sea-of-data-making-echosounder-data-more-useful/)
-* [Deep Learning for Fish Identification in Ship Surveys](https://uw-echospace.github.io/project/2021-hake-workflow/)
-* Data Science Workflows for Sonar Data Analysis
+ 
 
-### [Google Summer of Code with Orcasound](https://www.orcasound.net/portfolio/google-summer-of-code-open-source-software-for-students-orcas/)
-* Active Listening and Learning of Orca Sounds [(orcaAL tool)](https://orcasound.github.io/orcaal/)
+### Sonar Data Analysis
+
+I co-lead the [UW Echospace group](https://uw-echospace.github.io/), where I collaborate with oceanographers to combine data science, acoustics, mathematics, and software engineering to advance ocean acoustics research. 
+
+* matrix and tensor decomposition of long-term echosounder time series ([OOI Science Highlight](https://oceanobservatories.org/2021/03/a-bountiful-sea-of-data-making-echosounder-data-more-useful/) )
+* supervised learning of fish aggregations in [acoustic surveys](https://uw-echospace.github.io/project/2021-hake-workflow/) 
+* data science workflows for ([https://github.com/OSOceanAcoustics](https://github.com/OSOceanAcoustics))
+
+To learn more about our group and research check out [uw-echospace.github.io](uw-echospace.github.io).
+
+
+### Passive Acoustic Monitoring
+
+I collaborate with the [Orcasound](https://www.orcasound.net/) organization on projects engaging the public in listening to underwater sounds through combining the efforts of AI and humans. Together we have participated in the [Google Summer of Code](https://summerofcode.withgoogle.com/how-it-works) program and have worked with many wonderful students from around the world to develop open source software and data sets. Read more on our experience [here]([https://www.orcasound.net/portfolio/google-summer-of-code-open-source-software-for-students-orcas/). Below are more details on some of the projects:
+
+* [OrcaAL Tool](https://orcasound.github.io/orcaal/): Active Listening and Learning of Orca Sounds 
 * [Github Actions Workflows for Scheduled Algorithm Deployment](https://www.orcasound.net/author/dmitryvolodin/)
 * [Sounds Similar for Me: Using Open Embeddings to Improve Sampling on OrcaAL Tool](https://www.orcasound.net/author/josegiraldo/)
 * [Streaming External Hydrophones to Orcasound Website](https://www.orcasound.net/author/karan/)
@@ -18,6 +29,7 @@ permalink: /research/
 * [Bioacoustic Source Separation](https://www.orcasound.net/?s=devdoot)
 
 ### [Data Science for Social Good Projects](https://escience.washington.edu/using-data-science/data-science-for-social-good/)
+
 * *[Seattle’s $15 Minimum Wage Ordinance](https://uwescience.github.io/MinWA/)*, with West Coast Poverty Center (2021)
 * *[Natural Language Processing for Peer Support in Online Mental Health Communities](https://uwescience.github.io/DSSG-Peer-Support/)*, with CSE and Psychiatry and Behavioral Sciences (2019)
 * *[Automatic Damage Annotation on Post-Hurricane Satellite Imagery](https://dds-lab.github.io/disaster-damage-detection/)*, with Disaster Data Science Lab, UW (2018)
