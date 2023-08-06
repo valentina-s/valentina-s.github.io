@@ -8,11 +8,11 @@ permalink: /research/
 
 ### Sonar Data Analysis
 
-I co-lead the [UW Echospace group](https://uw-echospace.github.io/), where I collaborate with oceanographers to combine data science, acoustics, mathematics, and software engineering to advance ocean acoustics research. 
+I co-lead the [UW Echospace group](https://uw-echospace.github.io/), where I collaborate with oceanographers to combine data science, acoustics, mathemat ics, and software engineering to advance ocean acoustics research. 
 
 * matrix and tensor decomposition of long-term echosounder time series ([OOI Science Highlight](https://oceanobservatories.org/2021/03/a-bountiful-sea-of-data-making-echosounder-data-more-useful/) )
 * supervised learning of fish aggregations in [acoustic surveys](https://uw-echospace.github.io/project/2021-hake-workflow/) 
-* data science workflows for ([https://github.com/OSOceanAcoustics](https://github.com/OSOceanAcoustics))
+* data science workflows for sonar data analysis([https://github.com/OSOceanAcoustics](https://github.com/OSOceanAcoustics))
 
 To learn more about our group and research check out [uw-echospace.github.io](uw-echospace.github.io).
 
