@@ -28,7 +28,6 @@ I collaborate with the [Orcasound](https://www.orcasound.net/) organization on p
 * [Bioacoustic Source Separation](https://www.orcasound.net/?s=devdoot)
 
 ### [Data Science for Social Good Projects](https://escience.washington.edu/using-data-science/data-science-for-social-good/)
-
 * *[Seattle’s $15 Minimum Wage Ordinance](https://uwescience.github.io/MinWA/)*, with West Coast Poverty Center (2021)
 * *[Natural Language Processing for Peer Support in Online Mental Health Communities](https://uwescience.github.io/DSSG-Peer-Support/)*, with CSE and Psychiatry and Behavioral Sciences (2019)
 * *[Automatic Damage Annotation on Post-Hurricane Satellite Imagery](https://dds-lab.github.io/disaster-damage-detection/)*, with Disaster Data Science Lab, UW (2018)
@@ -39,6 +38,7 @@ I collaborate with the [Orcasound](https://www.orcasound.net/) organization on p
 
 
 ### [Data Science Incubator Projects](https://escience.washington.edu/using-data-science/incubator/)
+* *[Characterizing the spatio-temporal evolution of marine heatwaves](https://escience.washington.edu/incubator-23-mhw/)*, with Cassia Cai, School of Oceanography (2023)
 * *[User-friendly Tools for Oceanic Plankton Image Analysis (UTOPIA)](https://escience.washington.edu/incubator-22-utopia/)*, with Ali Chase, Applied Physics Laboratory (2022)
 * *[Learning to See the Forest and the Trees: Using Computer Vision to Make Forest Stewardship More Accessible](https://escience.washington.edu/incubator-21-forest/)*, with David Diaz, School of Environmental & Forest Sciences (2021)
 * *[Deer Fear: Using Acceleromenters and Video Camera Collars to Understand if Wolves Change Deer Behavior](https://escience.washington.edu/incubator-20-deer/)*, with Apryle Craig, School of Environmental & Forest Sciences (2020)
