@@ -27,6 +27,9 @@ I collaborate with the [Orcasound](https://www.orcasound.net/) organization on p
 * [Streamlining OrcaAL Tool](https://www.orcasound.net/author/benjamin/)
 * [Bioacoustic Source Separation](https://www.orcasound.net/?s=devdoot)
 
+I also sponsored a capstone project for a team of masters students in the UW Master of Science in Data Science Program on 
+* [Underwater Acoustic Noise Estimates within the Puget Sound](https://github.com/orcasound/ambient-sound-analysis)
+
 ### [Data Science for Social Good Projects](https://escience.washington.edu/using-data-science/data-science-for-social-good/)
 * *[Seattle’s $15 Minimum Wage Ordinance](https://uwescience.github.io/MinWA/)*, with West Coast Poverty Center (2021)
 * *[Natural Language Processing for Peer Support in Online Mental Health Communities](https://uwescience.github.io/DSSG-Peer-Support/)*, with CSE and Psychiatry and Behavioral Sciences (2019)
