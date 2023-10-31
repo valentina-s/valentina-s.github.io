@@ -16,13 +16,13 @@ permalink: /teaching/
 * Introduction to R
 * Large Scale Image Analysis with Dask ([tutorial](https://github.com/imagexd/2017-tutorials/blob/master/lectures/dask/Dask-Image-Tutorial.ipynb))
 * Introduction to Unix Shell
-* Version Control with Git&GitHub (introductory & [intermediate](https://github.com/uwescience/git-intermediate/))
-* Reproducibility and Open Science [repo](https://github.com/valentina-s/ReproducibleDataScience)
+* Version Control with Git&GitHub ([introductory](https://www.youtube.com/watch?v=Bc5BO9gPC9w) & [intermediate](https://github.com/uwescience/git-intermediate/))
+* Reproducibility and Open Science ([repo](https://github.com/valentina-s/ReproducibleDataScience))
 * Machine Learning, Deep Learning
 * Tensor Decomposition for Computer Vision and Machine Learning
 * Variational Inference
 * Machine Learning in Oceanography
-* GitHub Actions for Scientific Workflows [repo](https://github.com/valentina-s/GithubActionsTutorial-USRSE23)
+* GitHub Actions for Scientific Workflows ([repo](https://github.com/valentina-s/GithubActionsTutorial-USRSE23))
 
 
 **Johns Hopkins University**
