@@ -44,7 +44,11 @@ permalink: /teaching/
 * Statistics with R
 * Optimization
 
-**[Carpentries](https://carpentries.org/) Certified Instructor**
+**[Carpentries](https://carpentries.org/) 
+* Certified Instructor
+* Maintainer for Software Carpentry [*Programming with Python*](https://swcarpentry.github.io/python-novice-inflammation/) Lesson (2016-2017)
+* Workshop Organizer
+* Workshop Instructor for Python, R, Shell, Git & Github
 
 
 
