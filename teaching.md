@@ -4,23 +4,25 @@ title: Teaching
 permalink: /teaching/
 ---
 
+
 **University of Washington**
 
 *Lecturer:*
-* Introduction to Machine Learning
+* CSE/STAT 416 Introduction to Machine Learning ([course website](https://github.com/valentina-s/cse-stat-416-sp20))
 
 *Workshop Instructor:*
-* Introduction to SQL
+* Introduction to SQL ([lesson website](https://uwescience.github.io/SQL-geospatial-tutorial/))
 * Introduction to Python, Python for Programmers
 * Introduction to R
-* Scalable Data Analysis with Dask
+* Large Scale Image Analysis with Dask ([tutorial](https://github.com/imagexd/2017-tutorials/blob/master/lectures/dask/Dask-Image-Tutorial.ipynb))
 * Introduction to Unix Shell
-* Version Control with Git&Github (introductory & intermediate)
-* Reproducibility and Open Science
+* Version Control with Git&GitHub (introductory & [intermediate](https://github.com/uwescience/git-intermediate/))
+* Reproducibility and Open Science [repo](https://github.com/valentina-s/ReproducibleDataScience)
 * Machine Learning, Deep Learning
 * Tensor Decomposition for Computer Vision and Machine Learning
 * Variational Inference
 * Machine Learning in Oceanography
+* GitHub Actions for Scientific Workflows [repo](https://github.com/valentina-s/GithubActionsTutorial-USRSE23)
 
 
 **Johns Hopkins University**
