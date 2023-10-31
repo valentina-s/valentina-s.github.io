@@ -8,7 +8,7 @@ permalink: /teaching/
 **University of Washington**
 
 *Lecturer:*
-* CSE/STAT 416 Introduction to Machine Learning ([course website](https://github.com/valentina-s/cse-stat-416-sp20))
+* CSE/STAT 416 Introduction to Machine Learning ([course website](https://valentina-s.github.io/cse-stat-416-sp20/))
 
 *Workshop Instructor:*
 * Introduction to SQL ([lesson website](https://uwescience.github.io/SQL-geospatial-tutorial/))
