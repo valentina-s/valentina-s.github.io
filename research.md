@@ -6,7 +6,7 @@ permalink: /research/
 
  
 
-[Sonar Data Analysis](#sonar-data-analysis)
+### [Sonar Data Analysis](#sonar-data-analysis)
 
 I co-lead the [UW Echospace group](https://uw-echospace.github.io/), where I collaborate with oceanographers to combine data science, acoustics, mathematics, and software engineering to advance ocean acoustics research. Below are some topics of interest:
 
@@ -16,7 +16,7 @@ I co-lead the [UW Echospace group](https://uw-echospace.github.io/), where I col
 
 Check out our group [https://uw-echospace.github.io/](https://uw-echospace.github.io/) to learn more about our group's work.
 
-[### Passive Acoustic Monitoring](passive-acoustic-monitoring)
+### [Passive Acoustic Monitoring](passive-acoustic-monitoring)
 
 I collaborate with the [Orcasound](https://www.orcasound.net/) organization on projects engaging the public in listening to underwater sounds through combining the efforts of AI and humans. Together we have participated in the [Google Summer of Code](https://summerofcode.withgoogle.com/how-it-works) program and have worked with many wonderful students from around the world to develop open source software and data sets. Read more on our experience [here](https://www.orcasound.net/portfolio/google-summer-of-code-open-source-software-for-students-orcas/). Below are more details on some of the projects:
 
@@ -30,7 +30,7 @@ I collaborate with the [Orcasound](https://www.orcasound.net/) organization on p
 I also sponsored a capstone project for a team of masters students in the UW Master of Science in Data Science Program on 
 * [Underwater Acoustic Noise Estimates within the Puget Sound](https://github.com/orcasound/ambient-sound-analysis)
 
-[### Data Science for Social Good Projects](#dssg)
+### [Data Science for Social Good Projects](#dssg)
 
 I have been involved in the development and implementation of the [Data Science for Social Good](https://escience.washington.edu/using-data-science/data-science-for-social-good/) summer program. I have been a data science lead for projects with diverse stakeholders and I have had the wonderful opportunity to mentor teams of talented students:
 
@@ -44,7 +44,7 @@ I have been involved in the development and implementation of the [Data Science 
 
 
 
-[### Data Science Incubator Projects](#incubator)
+### [Data Science Incubator Projects](#incubator)
 
 Through the [Data Science Incubator](https://escience.washington.edu/using-data-science/incubator/) program I have supported many researchers in their dive into using data-intensive methods to extract information from complex and messy datasets and many of those projects have turned into fruitful long-term collaborations.
 
