@@ -16,7 +16,7 @@ I co-lead the [UW Echospace group](https://uw-echospace.github.io/), where I col
 
 Check out our group [https://uw-echospace.github.io/](https://uw-echospace.github.io/) to learn more about our group's work.
 
-### [Passive Acoustic Monitoring](passive-acoustic-monitoring)
+### [Passive Acoustic Monitoring](#passive-acoustic-monitoring)
 
 I collaborate with the [Orcasound](https://www.orcasound.net/) organization on projects engaging the public in listening to underwater sounds through combining the efforts of AI and humans. Together we have participated in the [Google Summer of Code](https://summerofcode.withgoogle.com/how-it-works) program and have worked with many wonderful students from around the world to develop open source software and data sets. Read more on our experience [here](https://www.orcasound.net/portfolio/google-summer-of-code-open-source-software-for-students-orcas/). Below are more details on some of the projects:
 
