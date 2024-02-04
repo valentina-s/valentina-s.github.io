@@ -30,7 +30,7 @@ I collaborate with the [Orcasound](https://www.orcasound.net/) organization on p
 I also sponsored a capstone project for a team of masters students in the UW Master of Science in Data Science Program on 
 * [Underwater Acoustic Noise Estimates within the Puget Sound](https://github.com/orcasound/ambient-sound-analysis)
 
-### [Data Science for Social Good Projects](#dssg)
+### [Data Science for Social Good Projects](#data-science-for-social-good-projects)
 
 I have been involved in the development and implementation of the [Data Science for Social Good](https://escience.washington.edu/using-data-science/data-science-for-social-good/) summer program. I have been a data science lead for projects with diverse stakeholders and I have had the wonderful opportunity to mentor teams of talented students:
 
@@ -44,7 +44,7 @@ I have been involved in the development and implementation of the [Data Science 
 
 
 
-### [Data Science Incubator Projects](#incubator)
+### [Data Science Incubator Projects](#data-science-incubator-projects)
 
 Through the [Data Science Incubator](https://escience.washington.edu/using-data-science/incubator/) program I have supported many researchers in their dive into using data-intensive methods to extract information from complex and messy datasets and many of those projects have turned into fruitful long-term collaborations.
 
