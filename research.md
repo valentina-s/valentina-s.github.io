@@ -6,7 +6,7 @@ permalink: /research/
 
  
 
-### Sonar Data Analysis
+[Sonar Data Analysis](#sonar-data-analysis)
 
 I co-lead the [UW Echospace group](https://uw-echospace.github.io/), where I collaborate with oceanographers to combine data science, acoustics, mathematics, and software engineering to advance ocean acoustics research. Below are some topics of interest:
 
