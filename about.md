@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://github.com/valentina-s/valentina-s.github.io/assets/11621647/4e743dbf-99d2-4cc5-a497-1d3bac15ecb1" alt="header" height="200" width="300">
+<img src="https://github.com/valentina-s/valentina-s.github.io/assets/11621647/5fb411e6-f038-416e-930b-af34686b5be1" alt="header" height="200" width="300">
+
 
 
 
