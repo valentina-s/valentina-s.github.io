@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://github.com/valentina-s/valentina-s.github.io/assets/11621647/5fb411e6-f038-416e-930b-af34686b5be1" alt="header" width="500">
+<img src="https://github.com/valentina-s/valentina-s.github.io/assets/11621647/e37a2f22-f313-4cb4-a06a-ecf146602927" alt="header" width="500">
 
 
+![ValentinaStanevaDSSummit_cropped](https://github.com/valentina-s/valentina-s.github.io/assets/11621647/e37a2f22-f313-4cb4-a06a-ecf146602927)
 
 
 
