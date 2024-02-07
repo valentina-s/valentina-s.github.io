@@ -14,7 +14,7 @@ I co-lead the [UW Echospace group](https://uw-echospace.github.io/), where I col
 * supervised learning of fish aggregations in [acoustic surveys](https://uw-echospace.github.io/project/2021-hake-workflow/) 
 * tools facilitating echosounder data workflows ([https://github.com/OSOceanAcoustics](https://github.com/OSOceanAcoustics))
 
-Check out our group [https://uw-echospace.github.io/](https://uw-echospace.github.io/) to learn more about our group's work.
+Check out our group [https://uw-echospace.github.io/](https://uw-echospace.github.io/) to learn more about our work.
 
 ### [Passive Acoustic Monitoring](#passive-acoustic-monitoring)
 
@@ -27,7 +27,7 @@ I collaborate with the [Orcasound](https://www.orcasound.net/) organization on p
 * [Streamlining OrcaAL Tool](https://www.orcasound.net/author/benjamin/)
 * [Bioacoustic Source Separation](https://www.orcasound.net/?s=devdoot)
 
-I also sponsored a capstone project for a team of masters students in the UW Master of Science in Data Science Program on 
+I also work with masters students in the UW Master of Science in Data Science Program (as part of their capstones) on 
 * [Underwater Acoustic Noise Estimates within the Puget Sound](https://github.com/orcasound/ambient-sound-analysis)
 
 ### [Data Science for Social Good Projects](#data-science-for-social-good-projects)
