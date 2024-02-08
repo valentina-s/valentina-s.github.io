@@ -46,7 +46,7 @@ I have taught over 100 tutorials/workshops on various data science, machine lear
 * Statistics with R
 * Optimization
 
-**[Carpentries](https://carpentries.org/)**
+**[Software and Data Carpentries](https://carpentries.org/)**
 * Certified Instructor
 * Maintainer for Software Carpentry [*Programming with Python*](https://swcarpentry.github.io/python-novice-inflammation/) Lesson (2016-2017)
 * Workshop Organizer
