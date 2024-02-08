@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-I have taught over 100 tutorials/workshops on various data science/machine learning/mathematics/programming topics. My goal is to create pathways for learners to advance their knowledge and become independent learners irrespective of where they are on their journey to become better data scientists or better researchers.  
+I have taught over 100 tutorials/workshops on various data science, machine learning, mathematics, or programming topics. My goal is to create pathways for learners to advance their knowledge and become independent learners irrespective of where they are on their journey to become better data scientists or better researchers.  
 
 **University of Washington**
 
