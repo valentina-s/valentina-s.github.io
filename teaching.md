@@ -14,6 +14,7 @@ I have taught over 100 tutorials/workshops on various data science, machine lear
 *Workshop Instructor:*
 * Introduction to SQL ([lesson website](https://uwescience.github.io/SQL-geospatial-tutorial/))
 * Introduction to Python, Python for Programmers
+* From Novice to Data Ninja, PyData 2017 Tutorial ([youtube recording](https://www.youtube.com/watch?v=z-NcSu2uYxw))
 * Introduction to R
 * Large Scale Image Analysis with Dask ([tutorial](https://github.com/imagexd/2017-tutorials/blob/master/lectures/dask/Dask-Image-Tutorial.ipynb))
 * Introduction to Unix Shell
