@@ -23,7 +23,7 @@ I have taught over 100 tutorials/workshops on various data science, machine lear
 * Machine Learning, Deep Learning
 * Tensor Decomposition for Computer Vision and Machine Learning
 * Variational Inference
-* Machine Learning in Oceanography
+* Machine Learning in Oceanography (Oceanhackweek [Jupyter Notebook Tutorial](https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/01-Tue/01-machine-learning-intro/tutorial), Oceanhackweek 2022 ML Overview [recording](https://www.youtube.com/watch?v=ALmCSgpmEzs))
 * Active Learning
 * GitHub Actions for Scientific Workflows ([repo](https://github.com/valentina-s/GithubActionsTutorial-USRSE23))
 
