@@ -1,39 +1,132 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Valentina Staneva",
+    "label": "Senior Research Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "email": "vms16@uw.edu",
+    "url": "https://valentina-s.github.io"
+    //"summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time"
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "eScience Institute, University of Washington",
+      //"position": "Professor of Theoretical Physics",
+      "url": "https://escience.washington.edu/",
+      "startDate": "2015",
+      "endDate": "present"
+      //"summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      //"highlights": ["Relativity"]
+    },
+    {
+      "name": "Center for Imaging Science, Johns Hopkins University",
+      //"position": "Professor of Theoretical Physics",
+      "url": "https://www.cis.jhu.edu/",
+      "startDate": "2008",
+      "endDate": "2014"
+      //"summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      //"highlights": ["Relativity"]
+    },
+    {
+      "name": "Armstrong Institute for Patient Safety and Quality, Johns Hopkins Medicine",
+      //"position": "Professor of Theoretical Physics",
+      "url": "https://www.hopkinsmedicine.org/armstrong-institute",
+      "startDate": "Spring 2014",
+      "endDate": ""
+      //"summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      //"highlights": ["Relativity"]
+    },
+    {
+      "name": "Audience Intelligence Team, Millennial Media",
+      //"position": "Professor of Theoretical Physics",
+      "startDate": "Summer 2013",
+      "endDate": ""
+      //"summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      //"highlights": ["Relativity"]
+    },
+    {
+      "name": "Mathematical Modeling and Analysis Group, Los Alamos National Laboratory",
+      //"position": "Professor of Theoretical Physics",
+      "startDate": "2005",
+      "endDate": "2007"
+      //"summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      //"highlights": ["Relativity"]
+    },
+    {
+      "name": "Research in Industrial Projects for Students Program, University of California, Los Angeles",
+      //"position": "Professor of Theoretical Physics",
+      "startDate": "Summer 2004",
+      "endDate": ""
+      //"summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      //"highlights": ["Relativity"]
+    },
+    {
+      "name": "Interdisciplinary Center for Applied Mathematics, Virginia Tech",
+      //"position": "Professor of Theoretical Physics",
+      "startDate": "Summer 2003",
+      "endDate": ""
+      //"summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      //"highlights": ["Relativity"]
     }
+
   ],
-  "volunteer": [
+  "education": [
+    {
+      "institution": "Concord University",
+      "location": "Athens, WV",
+      "area": "Mathematics, Minor in Computer Science", 
+      "studyType": "BS",
+      "courses": ["with highest honors"]
+     //,
+     // "startDate": "1905-01-01",
+     // "endDate": "1905-01-01",
+     // "score": "10",
+    },
+    {
+      "institution": "Johns Hopkins University",
+      "location": "Baltimore, MD",
+      "url": "www.jhu.edu",
+      "area": "Applied Mathematics & Statistics",
+      "studyType": "PhD",
+      "courses": ["Thesis: Stochastic Filtering on Shape Manifolds"]
+     //,
+     // "startDate": "1905-01-01",
+     // "endDate": "1905-01-01",
+     // "score": "10",
+    }
+
+  ],
+  "awards": [
+    {
+      "title": "Isaacs Fellowship",
+      //"date": "1921-11-01",
+      "awarder": "Johns Hopkins University"
+      //"url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      //"summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    },
+    {
+      "title": "Joseph Marsh Scholarship of Distinction",
+      //"date": "1921-11-01",
+      "awarder": "Concord University"
+      //"url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      //"summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    },
+    {
+      "title": "Certificate of Accomplishment, Math & Computer Science Tutor",
+      //"date": "1921-11-01",
+      "awarder": "Concord University"
+      //"url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      //"summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    },
+    {
+      "title": "Dean's List",
+      //"date": "1921-11-01",
+      "awarder": "Concord University"
+      //"url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      //"summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    }
+  ]
+
+ /* "volunteer": [
     {
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
@@ -44,29 +137,7 @@
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+  ]
   "certificates": [
     {
       "name": "Machine Learning",
@@ -197,4 +268,5 @@
       "url": "https://example.com"
     }
   ]
+    */
 }
