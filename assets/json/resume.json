@@ -30,16 +30,16 @@
       "name": "Armstrong Institute for Patient Safety and Quality, Johns Hopkins Medicine",
       //"position": "Professor of Theoretical Physics",
       "url": "https://www.hopkinsmedicine.org/armstrong-institute",
-      "startDate": "Spring 2014",
-      "endDate": ""
+      "startDate": "2014-01-01",
+      "endDate": "2014-03-01"
       //"summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       //"highlights": ["Relativity"]
     },
     {
       "name": "Audience Intelligence Team, Millennial Media",
       //"position": "Professor of Theoretical Physics",
-      "startDate": "Summer 2013",
-      "endDate": ""
+      "startDate": "2013-06-01",
+      "endDate": "2013-09-01"
       //"summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       //"highlights": ["Relativity"]
     },
@@ -54,16 +54,17 @@
     {
       "name": "Research in Industrial Projects for Students Program, University of California, Los Angeles",
       //"position": "Professor of Theoretical Physics",
-      "startDate": "Summer 2004",
-      "endDate": ""
+      "startDate": "2004-06-01",
+      "endDate": "2004-08-01"
       //"summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       //"highlights": ["Relativity"]
     },
     {
       "name": "Interdisciplinary Center for Applied Mathematics, Virginia Tech",
       //"position": "Professor of Theoretical Physics",
-      "startDate": "Summer 2003",
-      "endDate": ""
+      "startDate": "2003-06-01",
+      "endDate": "2003-08-01"
+      //"date": "2016"
       //"summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       //"highlights": ["Relativity"]
     }
@@ -98,28 +99,28 @@
   "awards": [
     {
       "title": "Isaacs Fellowship",
-      //"date": "1921-11-01",
+      "date": "2017",
       "awarder": "Johns Hopkins University"
       //"url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       //"summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     },
     {
       "title": "Joseph Marsh Scholarship of Distinction",
-      //"date": "1921-11-01",
+      "date": "2002",
       "awarder": "Concord University"
       //"url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       //"summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     },
     {
       "title": "Certificate of Accomplishment, Math & Computer Science Tutor",
-      //"date": "1921-11-01",
+      "date": "2005",
       "awarder": "Concord University"
       //"url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       //"summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     },
     {
       "title": "Dean's List",
-      //"date": "1921-11-01",
+      "date": "2006",
       "awarder": "Concord University"
       //"url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       //"summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
