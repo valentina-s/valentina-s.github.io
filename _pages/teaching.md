@@ -2,11 +2,58 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: ""
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I have taught over 100 tutorials/workshops on various data science, machine learning, mathematics, or programming topics. My goal is to create pathways for learners to advance their knowledge and become independent learners irrespective of where they are on their journey to become better data scientists or better researchers.  
 
-Organize your courses by years, topics, or universities, however you like!
+**University of Washington**
+
+*Lecturer:*
+* CSE/STAT 416 Introduction to Machine Learning ([course website](https://valentina-s.github.io/cse-stat-416-sp20/))
+* Pixel Proficiency: Practical Deep Learning for Images (Spring 2024, Fall 2025)
+
+*Workshop Instructor:*
+* Introduction to SQL ([lesson website](https://uwescience.github.io/SQL-geospatial-tutorial/))
+* Introduction to Python, Python for Programmers
+* From Novice to Data Ninja, [PyData 2017 Tutorial](https://pydata.org/seattle2017/schedule/presentation/109/) ([youtube recording](https://www.youtube.com/watch?v=z-NcSu2uYxw))
+* Introduction to R
+* Large Scale Image Analysis with Dask ([tutorial](https://github.com/imagexd/2017-tutorials/blob/master/lectures/dask/Dask-Image-Tutorial.ipynb))
+* Introduction to Unix Shell
+* Version Control with Git&GitHub ([introductory](https://www.youtube.com/watch?v=Bc5BO9gPC9w) & [intermediate](https://github.com/uwescience/git-intermediate/))
+* Reproducibility and Open Science ([repo](https://github.com/valentina-s/ReproducibleDataScience))
+* Machine Learning, Deep Learning
+* Tensor Decomposition for Computer Vision and Machine Learning
+* Variational Inference
+* Machine Learning in Oceanography (Oceanhackweek [Jupyter Notebook Tutorial](https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/01-Tue/01-machine-learning-intro/tutorial), ML Overview [recording](https://www.youtube.com/watch?v=ALmCSgpmEzs))
+* Machine Learning in Geosciences (GeoSMART 2023)
+* Active Learning
+* GitHub Actions for Scientific Workflows (SciPy 2024 Tutorial [video](https://www.youtube.com/watch?v=yXN3eyEGI4w), [repo](https://github.com/uwescience/SciPy2024-GitHubActionsTutorial), RSE 2024 Tutorial [video](https://www.youtube.com/watch?v=k2k9XKePw3U), [repo](https://github.com/valentina-s/GithubActionsTutorial-USRSE23))
+
+
+**Johns Hopkins University**
+
+*Lecturer:*
+* Introduction to R
+* A Hands-on Introduction to MATLAB
+
+*Teaching Assistant:*
+* Probability and Statistics for Engineering
+* Probability and Statistics for Biological Sciences
+* Stochastic Processes with Applications to Finance
+* Mathematical Image Analysis
+* Time Series Analysis
+* Statistical Theory
+
+*Financial Math Program Bootcamp Instructor:*
+* Linear Algebra with MATLAB
+* Statistics with R
+* Optimization
+
+**[Software and Data Carpentries](https://carpentries.org/)**
+* Certified Instructor
+* Maintainer for Software Carpentry [*Programming with Python*](https://swcarpentry.github.io/python-novice-inflammation/) Lesson (2016-2017)
+* Workshop Organizer
+* Workshop Instructor for Python, R, Shell, Git & Github
