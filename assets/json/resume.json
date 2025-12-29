@@ -7,6 +7,35 @@
     "url": "https://valentina-s.github.io"
     //"summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time"
   },
+  
+  "education": [
+    {
+      "institution": "Concord University",
+      "location": "Athens, WV",
+      "area": "Mathematics, Minor in Computer Science", 
+      "studyType": "BS",
+      "courses": ["with highest honors"]
+     //,
+     // "startDate": "1905-01-01",
+     // "endDate": "1905-01-01",
+     // "score": "10",
+    },
+    {
+      "institution": "Johns Hopkins University",
+      "location": "Baltimore, MD",
+      "url": "www.jhu.edu",
+      "area": "Applied Mathematics & Statistics",
+      "studyType": "PhD",
+      "courses": ["Thesis: Stochastic Filtering on Shape Manifolds"]
+     //,
+     // "startDate": "1905-01-01",
+     // "endDate": "1905-01-01",
+     // "score": "10",
+    }
+
+  ],
+
+
   "work": [
     {
       "name": "eScience Institute, University of Washington",
@@ -17,6 +46,16 @@
       //"summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       //"highlights": ["Relativity"]
     },
+    {
+      "name": "Allen Institute for Brain Science",
+      "position": "Visiting Scientist",
+      "startDate": "2017",
+      "endDate": "2018"
+      //"summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      //"highlights": ["Relativity"]
+    },
+
+
     {
       "name": "Center for Imaging Science, Johns Hopkins University",
       //"position": "Professor of Theoretical Physics",
@@ -70,32 +109,7 @@
     }
 
   ],
-  "education": [
-    {
-      "institution": "Concord University",
-      "location": "Athens, WV",
-      "area": "Mathematics, Minor in Computer Science", 
-      "studyType": "BS",
-      "courses": ["with highest honors"]
-     //,
-     // "startDate": "1905-01-01",
-     // "endDate": "1905-01-01",
-     // "score": "10",
-    },
-    {
-      "institution": "Johns Hopkins University",
-      "location": "Baltimore, MD",
-      "url": "www.jhu.edu",
-      "area": "Applied Mathematics & Statistics",
-      "studyType": "PhD",
-      "courses": ["Thesis: Stochastic Filtering on Shape Manifolds"]
-     //,
-     // "startDate": "1905-01-01",
-     // "endDate": "1905-01-01",
-     // "score": "10",
-    }
-
-  ],
+  
   "awards": [
     {
       "title": "Isaacs Fellowship",
