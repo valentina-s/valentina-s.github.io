@@ -13,6 +13,7 @@ I have taught over 100 tutorials/workshops on various data science, machine lear
 
 *Lecturer:*
 * CSE/STAT 416 Introduction to Machine Learning ([course website](https://valentina-s.github.io/cse-stat-416-sp20/))
+* Pixel Proficiency: Practical Deep Learning for Images (Spring 2024, Fall 2025)
 
 *Workshop Instructor:*
 * Introduction to SQL ([lesson website](https://uwescience.github.io/SQL-geospatial-tutorial/))
@@ -29,7 +30,7 @@ I have taught over 100 tutorials/workshops on various data science, machine lear
 * Machine Learning in Oceanography (Oceanhackweek [Jupyter Notebook Tutorial](https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/01-Tue/01-machine-learning-intro/tutorial), ML Overview [recording](https://www.youtube.com/watch?v=ALmCSgpmEzs))
 * Machine Learning in Geosciences (GeoSMART 2023)
 * Active Learning
-* GitHub Actions for Scientific Workflows ([repo](https://github.com/valentina-s/GithubActionsTutorial-USRSE23))
+* GitHub Actions for Scientific Workflows (SciPy 2024 Tutorial [video](https://www.youtube.com/watch?v=yXN3eyEGI4w), [repo](https://github.com/uwescience/SciPy2024-GitHubActionsTutorial), RSE 2024 Tutorial [video](https://www.youtube.com/watch?v=k2k9XKePw3U), [repo](https://github.com/valentina-s/GithubActionsTutorial-USRSE23))
 
 
 **Johns Hopkins University**
