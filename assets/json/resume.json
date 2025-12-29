@@ -1,13 +1,13 @@
 {
   "basics": {
     "name": "Valentina Staneva",
-    "label": "Senior Research Scientist",
+    //"label": "Senior Research Scientist",
     "image": "",
     "email": "vms16@uw.edu",
     "url": "https://valentina-s.github.io"
     //"summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time"
   },
-  
+
   "education": [
     {
       "institution": "Concord University",
@@ -39,9 +39,25 @@
   "work": [
     {
       "name": "eScience Institute, University of Washington",
-      //"position": "Professor of Theoretical Physics",
+      "position": "Senior Research Scientist, Data Science Fellow",
       "url": "https://escience.washington.edu/",
       "startDate": "2015",
+      "endDate": "present"
+      //"summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      //"highlights": ["Relativity"]
+    },
+    {
+      "name": "School of Oceanography, University of Washington",
+      "position": "Affiliate Assistant Professor",
+      "startDate": "2024",
+      "endDate": "present"
+      //"summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      //"highlights": ["Relativity"]
+    },
+    {
+      "name": "Applied Physics Laboratory, University of Washington",
+      "position": "Affiliate Scientist",
+      "startDate": "2024",
       "endDate": "present"
       //"summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       //"highlights": ["Relativity"]
@@ -113,7 +129,7 @@
   "awards": [
     {
       "title": "Isaacs Fellowship",
-      "date": "2017",
+      "date": "2007",
       "awarder": "Johns Hopkins University"
       //"url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       //"summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
