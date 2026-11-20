@@ -3,13 +3,17 @@ layout: page
 title: DS/AI Accelerator
 description: 
 img: assets/img/incubator_collage.jpg
-importance: 2
+importance: 3
 category: work
 ---
 
 
 Through the [Data Science & AI Accelerator](https://escience.washington.edu/using-data-science/data-science-and-ai-accelerator/) (previously Incubator) program I have supported many researchers in their dive into using data-intensive methods to extract information from complex and messy datasets and many of those projects have turned into fruitful long-term collaborations.
 
+* *[Rebuilding the Aquatic Resources Trade in Species (ARTIS) Model’s Cloud Deployment Workflow to Improve Reproducibility and Sustainability](https://escience.washington.edu/rebuilding-the-aquatic-resources-trade-in-species-artis-models-cloud-deployment-workflow-to-improve-reproducibility-and-sustainability/)* with Althea Marks,  UW Seafood Globalization Lab, and Jose Cols, eScience Institute (Fall 2026)
+* *[Developing daily gap-filled ocean color datasets using deep neural networks: Going from proof-of-concept to production](https://escience.washington.edu/developing-daily-gap-filled-ocean-color-datasets-using-deep-neural-networks-going-from-proof-of-concept-to-production/)* with Eli Holmes, Troy Anthony Russo, Kaira Nair, Northwest Fisheries Science Center, and Scott Henderson, eScience Institute (Summer 2026)
+* *[Heart Rate Variability-Based Metabolic System Prediction](https://escience.washington.edu/heart-rate-variability-based-metabolic-system-prediction/)* with Soshi Samejima, Joanna Zhou, Arya Kuttiyan, and Ellie Bieler, UW Rehabilitation Medicine (Spring 2026)
+* *[Using Computer Vision to Understand Collective Navigation in Salmon](https://escience.washington.edu/using-computer-vision-to-understand-collective-navigation-in-salmon/)* with Andrew Berdahl, UW School of Aquatic and Fishery Sciences and Ben Koger, University of Wyoming School of Computing and Department of Zoology and Physiology (Winter 2026)
 * *[Probabilistic Convective Outlooks from Time-Evolving Environmental Conditions with Convolutional Neural Networks]()* with Miles Epstein, Atmospheric and Climate Science (Fall 2025)
 * *[The Use of Machine Learning to Predict Hospital Readmissions After Lower Limb Amputation in the Medicare Population](https://escience.washington.edu/the-use-of-machine-learning-to-predict-hospital-readmissions-after-lower-limb-amputation-in-the-medicare-population/)* with Rachael Rosen, Rehabilitation Science (Spring 2025)
 * *[Deep Learning to Uncover Watershed Specific Characteristics in Salmon Otolith Patterns to Aid in Management of Pacific Salmon](https://escience.washington.edu/deep-learning-to-uncover-watershed-specific-characteristics-in-salmon-otolith-patterns-to-aid-in-management-of-pacific-salmon/)* with Benjamin Makhlouf, School of Aquatic and Fishery Sciences (Winter 2025)
