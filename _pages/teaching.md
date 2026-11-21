@@ -13,12 +13,12 @@ I have taught over 100 tutorials/workshops on various data science, machine lear
 
 *Training Program Organizer*
 * [AI in Practice Summer Institute](https://ai-in-practice.uwescience.org/) (Summer 2026)
-* [OceanHackWeek](https://oceanhackweek.org/)
-* [BOAT Birdge Ocean Acoustics & Technology](https://boat-ocean-acoustics.github.io/) 
-* [ImageXD: Image processing across domains](https://imagexd.github.io/2017/)
+* [OceanHackWeek](https://oceanhackweek.org/) (multiple years)
+* [BOAT: Birdge Ocean Acoustics & Technology](https://boat-ocean-acoustics.github.io/) (Spring 2025)
+* [ImageXD: Image processing across domains](https://imagexd.github.io/2017/) (2017)
 
 *Lecturer:*
-* CSE/STAT 416 Introduction to Machine Learning ([course website](https://valentina-s.github.io/cse-stat-416-sp20/))
+* [CSE/STAT 416 Introduction to Machine Learning](https://valentina-s.github.io/cse-stat-416-sp20/) (Spring 2020)
 * [Pixel Proficiency: Practical Deep Learning for Images](https://uwescience.github.io/pixel-proficiency/) (Spring 2024, Fall 2025)
 
 *Workshop Instructor:*
