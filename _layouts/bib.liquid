@@ -4,27 +4,26 @@
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
-        {%- if site.data.venues[entry.abbr] -%}
-          {% assign venue_style = null %}
-          {% if site.data.venues[entry.abbr].color != blank %}
-            {% assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' %}
-          {%- endif -%}
-          <abbr
-            class="badge rounded w-100"
-            {% if venue_style %}
-              {{ venue_style }}
-            {% endif -%}
-          >
-            {% if site.data.venues[entry.abbr].url %}
-              <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr }}</a>
-            {% else %}
-              <div>{{- entry.abbr -}}</div>
-            {% endif %}
-          </abbr>
-        {% else %}
-          <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
-        {% endif %}
-      {% endif %}
+        {% assign abbrs = entry.abbr | split: "," %}
+        {% for raw_abbr in abbrs %}
+          {% assign abbr = raw_abbr | strip %}
+          {%- if site.data.venues[abbr] -%}
+            {% assign venue_style = null %}
+            {% if site.data.venues[abbr].color != blank %}
+              {% assign venue_style = site.data.venues[abbr].color | prepend: 'style="background-color:' | append: '; color: white"' %}
+            {%- endif -%}
+            <abbr class="badge rounded w-100 mb-1" {% if venue_style %} {{ venue_style }} {% endif -%}>
+              {% if site.data.venues[abbr].url %}
+                <a href="{{ site.data.venues[abbr].url }}">{{ abbr }}</a>
+              {% else %}
+                <div>{{- abbr -}}</div>
+              {% endif %}
+            </abbr>
+          {% else %}
+            <abbr class="badge rounded w-100 mb-1">{{ abbr }}</abbr>
+          {% endif %}
+        {% endfor %}
+      {%- endif -%}
       {% if entry.preview %}
         {% if entry.preview contains '://' %}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">

@@ -3,9 +3,9 @@ layout: page
 title: Data Science for Social Good
 description: 
 img: assets/img/DSSG_logo_reshaped_2.png
-importance: 2
+importance: 4
 category: work
-related_publications: true
+
 ---
 I have been involved in the development and implementation of the [Data Science for Social Good](https://escience.washington.edu/using-data-science/data-science-for-social-good/) summer program. I have been a data science lead for projects with diverse stakeholders and I have had the wonderful opportunity to mentor teams of talented students:
 

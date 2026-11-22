@@ -3,7 +3,7 @@ layout: page
 title: Sonar Data Analysis
 description: 
 img: assets/img/NOAA_sonar.jpg
-importance: 1
+importance: 2
 category: work
 ---
 I co-lead the [UW Echospace group](https://uw-echospace.github.io/), where I collaborate with oceanographers to combine data science, acoustics, mathematics, and software engineering to advance ocean acoustics research. Below are some topics of interest:
